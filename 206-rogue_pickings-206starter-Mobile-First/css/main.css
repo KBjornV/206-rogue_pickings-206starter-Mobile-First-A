@@ -12,7 +12,7 @@ body {
 	display: flex;
   	justify-content: center;
 	align-items: center;
-    font-size:16px;
+    font-size:1em;
 }
 }
 
@@ -82,7 +82,7 @@ header nav ul {
 header nav ul li {
 	text-transform: uppercase;
 	font-weight: 700;
-	font-size: 14px;
+	font-size: .875em;
 	padding: 0 10px;
 	display: inline;
 }
@@ -124,7 +124,7 @@ header nav ul li a{
 .main-title p {
 	width: 100%;
 	padding: 0;
-	font-size: 16px;
+	font-size: 1em;
 	line-height: 25px;
 }
 
@@ -162,12 +162,12 @@ header nav ul li a{
 
 .reviews {
 	color: #333;
-	font-size: 16px;
+	font-size: 1em;
 	line-height: 21px;
 }
 
 .address {
-	font-size: 16px;
+	font-size: 1em;
 	line-height: 24px;
 }
 
@@ -186,5 +186,5 @@ footer span {
 	font-family: 'Wisdom Script', cursive;
 	text-transform: lowercase;
 	color: #77a466;
-	font-size: 14px;
+	font-size: .875em;
 }
